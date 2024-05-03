@@ -29,11 +29,13 @@ npm run build
 ```
 ## Inicio
 
-![Captura de tela 2024-05-03 192958](https://github.com/Jooseixas/Rick_And_Morty/assets/127799889/429afbbc-d520-4231-a318-95ea3a41a40e)
+![Captura de tela 2024-05-03 192958](https://github.com/Jooseixas/Rick_And_Morty/assets/127799889/7c06d225-e4bb-417f-b026-3fdc1dc595e0)
+
 
 ## Sobre
 
-![Captura de tela 2024-05-03 193012](https://github.com/Jooseixas/Rick_And_Morty/assets/127799889/4540b6d1-8806-4379-abe8-903ea3465098)
+![Captura de tela 2024-05-03 193012](https://github.com/Jooseixas/Rick_And_Morty/assets/127799889/fe840805-70e1-4987-b78f-3388456c1004)
+
 
 ```
 Ra:1974858
